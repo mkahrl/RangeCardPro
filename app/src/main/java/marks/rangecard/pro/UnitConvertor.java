@@ -4,8 +4,7 @@ import android.content.Context;
 
 public class UnitConvertor 
 {
-	public static String defaultUnit="m";
-	
+    public static String defaultUnit="m";
 	
     public UnitConvertor()
     {
@@ -27,7 +26,6 @@ public class UnitConvertor
         if (unit.equals("mile")) return 0.00062137/d;
         if (unit.equals("Naut. Mile")) return 0.0005399568/d;
         return d;
-
     }
     
     public static double convertDistance(double d, String unit)
