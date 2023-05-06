@@ -188,7 +188,6 @@ public class TargetActivity extends Activity implements View.OnClickListener, Ad
     @Override
     public void onBackPressed()
     {
-       // save();
         super.onBackPressed();
     }
     
@@ -217,15 +216,6 @@ public class TargetActivity extends Activity implements View.OnClickListener, Ad
             case R.id.delete:
                 new DeleteTargetDialog(this).show();
                 break;
-           /* case R.id.base_ref:
-                CheckBox refpt = (CheckBox)findViewById(R.id.base_ref);
-                if ( refpt.isChecked() )
-                {
-                    intent = new Intent();
-                    intent.putExtra("refPoint", info.id);
-                    setResult(11, intent);
-                    finish();
-                }*/
         }
      }
 
