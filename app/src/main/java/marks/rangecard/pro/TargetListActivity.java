@@ -3,8 +3,6 @@ package marks.rangecard.pro;
 import android.app.Activity;
 import android.os.Bundle;
 import android.content.Intent;
-//import android.content.SharedPreferences;
-//import android.preference.PreferenceManager;
 import android.widget.*;
 import android.view.*;
 
