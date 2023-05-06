@@ -22,7 +22,7 @@ import java.util.*;
 public class DataManager
 {
     Hashtable<Marker, TargetInfo> targets = new Hashtable<Marker, TargetInfo>();
-	private static DataManager instance;
+    private static DataManager instance;
     Context ctx;
     final static String targFile = "target-info";
     private GoogleMap map;
@@ -120,8 +120,8 @@ public class DataManager
         Vector<String> targetList = new Vector<String>();
         targets = new Hashtable<Marker, TargetInfo>();
         File dir = ctx.getCacheDir();
-   	    File file = new File(dir, targFile);
-   	    try
+   	File file = new File(dir, targFile);
+   	try
         {
             FileInputStream in = new FileInputStream(file);
             ObjectInputStream oin = new ObjectInputStream(in);
@@ -192,7 +192,7 @@ public class DataManager
         }
         
         File dir = ctx.getCacheDir();
-   	    File file = new File(dir, targFile);
+   	File file = new File(dir, targFile);
         try
         {
             file.createNewFile();
