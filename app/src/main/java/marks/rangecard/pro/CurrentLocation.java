@@ -8,16 +8,17 @@ import com.berico.coords.Coordinates;
 
 public class CurrentLocation extends JSONObject implements Serializable
 {
-	final static String TAG = "RANGE_CARD_ULOC:";
+    final static String TAG = "RANGE_CARD_ULOC:";
     boolean mine=true;
-	public String origin="";
-	public String originName="";
-	public double lat=38.0;
-	public double lon = -98.0;
-	public double alt = 10.0;
-	public double acc = 1.0;
-	public String mgrs="";
-	public long timestamp=100000;
+    public String origin="";
+    public String originName="";
+    public double lat=38.0;
+    public double lon = -98.0;
+    public double alt = 10.0;
+    public double acc = 1.0;
+    public String mgrs="";
+    public long timestamp=100000;
+    
     public CurrentLocation() 
     {
     }
@@ -29,7 +30,6 @@ public class CurrentLocation extends JSONObject implements Serializable
             put("longitude",info.lon);
             put("lat", info.lat);
             put("alt", info.alt);
-         //   put("acc",  info.acc);
             put("timestamp", info.timestamp);
         }
         catch(Exception e)
