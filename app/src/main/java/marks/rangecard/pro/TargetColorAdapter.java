@@ -7,31 +7,30 @@ import android.widget.*;
 import android.content.*;
 
 public class TargetColorAdapter extends ArrayAdapter
-    {
+{
         LayoutInflater inflator;
     	public TargetColorAdapter(Context context, int layout, Object[] colors)
     	{
-    		super(context, layout, colors);
+    	    super(context, layout, colors);
             inflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     	}
     	
     	public static int getColor(int pos)
     	{
     		switch (pos)
-		 	{
-                case 0: return getColor("#007FFF");// azure
-	            case 1: return Color.BLUE;
-                case 2: return Color.CYAN;
-                case 3: return Color.GREEN;
-                case 4: return Color.MAGENTA;
-                case 5: return getColor("#ffa500"); // orange
-                case 6: return Color.RED;
-                case 7: return getColor("#FF66CC"); // rose
-                case 8: return getColor("#7F00FF"); // violet
-                case 9: return Color.YELLOW; // yellow
-	          
-		 	}
-		 	return Color.BLACK;
+		{
+			case 0: return getColor("#007FFF");// azure
+			case 1: return Color.BLUE;
+			case 2: return Color.CYAN;
+			case 3: return Color.GREEN;
+			case 4: return Color.MAGENTA;
+			case 5: return getColor("#ffa500"); // orange
+			case 6: return Color.RED;
+			case 7: return getColor("#FF66CC"); // rose
+			case 8: return getColor("#7F00FF"); // violet
+			case 9: return Color.YELLOW; // yellow
+		}
+		return Color.BLACK;
     	}
         
         static int getColor(String s)
@@ -51,15 +50,14 @@ public class TargetColorAdapter extends ArrayAdapter
     	public View getView(int pos, View convert, ViewGroup parent)
     	{
             if ( convert != null ) return convert;
-    		//View v = inflator.inflate(R.layout.target_item, null);
             View v = super.getView(0, convert, parent);
-    		v.setBackgroundColor(getColor(pos));
-    		if ( v instanceof TextView )
-    		{
-    			TextView tv = (TextView) v;
-    			tv.setTextColor(getColor(pos));
-    		}
-    		return v;
+    	    v.setBackgroundColor(getColor(pos));
+    	    if ( v instanceof TextView )
+    	    {
+    		TextView tv = (TextView) v;
+    		tv.setTextColor(getColor(pos));
+    	     }
+    	     return v;
     	}
     	
     	public View getDropDownView(int pos, View convert, ViewGroup parent)
@@ -68,9 +66,9 @@ public class TargetColorAdapter extends ArrayAdapter
     		v.setBackgroundColor(getColor(pos));
     		if ( v instanceof TextView )
     		{
-    			TextView tv = (TextView) v;
-    			tv.setTextColor(getColor(pos));
+    		    TextView tv = (TextView) v;
+    		    tv.setTextColor(getColor(pos));
     		}
-		 	return v;
+		return v;
     	}
     }
