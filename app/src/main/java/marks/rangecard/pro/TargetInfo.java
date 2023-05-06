@@ -2,7 +2,7 @@
  * @(#)TargetInfo.java
  *
  *
- * @author 
+ * @author Mark Kahrl
  * @version 1.00 2009/11/15
  */
 package marks.rangecard.pro;
@@ -13,10 +13,10 @@ import org.json.JSONException;
 
 public class TargetInfo extends JSONObject implements Serializable
 {
-	public double lat;
-	public double lon;
-	public double alt;
-	public String name = "Target";
+    public double lat;
+    public double lon;
+    public double alt;
+    public String name = "Target";
     public long timestamp;
     public String id = "";
     
@@ -44,7 +44,6 @@ public class TargetInfo extends JSONObject implements Serializable
         super(data);
         try
         {
-
             lat = getDouble("lat");
             lon = getDouble("lon");
             alt = getDouble("alt");
@@ -103,7 +102,6 @@ public class TargetInfo extends JSONObject implements Serializable
         }
     }
     
-   
     public String jsonString()
     {
         try
