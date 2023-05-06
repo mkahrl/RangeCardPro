@@ -11,21 +11,19 @@ import java.util.*;
 
 public class TargetAdapter implements ListAdapter
 {
-	private Activity ctx;
-	private DataManager dataManager;
-	private LayoutInflater inflater;
-	private Vector<TargetInfo> targets;
+    private Activity ctx;
+    private DataManager dataManager;
+    private LayoutInflater inflater;
+    private Vector<TargetInfo> targets;
     private final static String RANGE_FORMAT = "%.2f";
     private final static String BRG_FORMAT = "%.1f";
     static String UNITS = "units";
-  //  static String BRNG_UNITS = "brng_units";
     private String units = "m";
     ListView listView;
 
     public TargetAdapter(Activity ctx)
     {
     	this.ctx=ctx;
-        //this.listView = listView;
     	dataManager = DataManager.getInstance(ctx);
     	inflater = (LayoutInflater)ctx.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(ctx);
@@ -61,7 +59,6 @@ public class TargetAdapter implements ListAdapter
     
     public View getView(int position, View convertView, ViewGroup parent)
     {
-       // if (convertView != null ) return convertView;
         if (position < 1)
         {
             View gps = getGPSItem();
@@ -71,8 +68,7 @@ public class TargetAdapter implements ListAdapter
         ViewGroup vg = null;
         if (( position % 2) > 0) vg = (ViewGroup) inflater.inflate(R.layout.target_item, null);
         else vg = (ViewGroup) inflater.inflate(R.layout.target_item_lg, null);
-
-    	//TextView ttype = (TextView) vg.findViewById(R.id.target_type);
+	
         ImageView swatch = (ImageView) vg.findViewById(R.id.swatch);
         TextView tname = (TextView) vg.findViewById(R.id.target_name);
         TextView trange = (TextView) vg.findViewById(R.id.target_range);
@@ -108,8 +104,7 @@ public class TargetAdapter implements ListAdapter
 
             }
         }
-
-     //   else ttype.setText("Target: ");
+	
         tname.setText(ti.name);
 
         double rng = UnitConvertor.convertDistance((double) ti.rng, units);
@@ -200,11 +195,9 @@ public class TargetAdapter implements ListAdapter
                 TargetInfo ti = targets.get(idx-1);
                 Intent intent = new Intent();
                 intent.setClassName("marks.rangecard.pro", "marks.rangecard.pro.TargetActivity");
-                ///  dataManager.save();
                 intent.putExtra("id", ti.id);
                 ctx.startActivityForResult(intent, 13);
             }
         }
     }
-    
 }
