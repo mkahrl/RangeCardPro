@@ -110,7 +110,6 @@ public class MGestureOverlay extends GestureOverlayView implements LocationListe
     @Override
     public void draw(Canvas canvas)
     {
-      //  System.out.println("gov::draw() ........");
         super.draw(canvas);
         int clr = sp.getInt(RET_COLOR, 1);
         paint.setColor(ColorAdapter.getColor(clr));
@@ -177,7 +176,6 @@ public class MGestureOverlay extends GestureOverlayView implements LocationListe
     
     public void computeDisplayMetrics()
      {
-      //   System.out.println("gov::computeDisplayMetrics() ........");
          if (mapAct==null) return;
     	 DisplayMetrics metrics = new DisplayMetrics();
          mapAct.getWindowManager().getDefaultDisplay().getMetrics(metrics);
@@ -189,7 +187,6 @@ public class MGestureOverlay extends GestureOverlayView implements LocationListe
     
     void computeRangeAndBearing()
     {
-      //  System.out.println("gov::computeRangeAndBearing() ........");
         if ( mapAct.map == null ) return;
         Projection proj = mapAct.map.getProjection();
         if (currentLocation == null)
