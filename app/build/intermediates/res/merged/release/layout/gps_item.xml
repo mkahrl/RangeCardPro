@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/large_margin"
+        android:theme="@style/Theme.Marks.Lite"
+        android:background="@color/orange_100"
+        >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/frienddroid"
+        android:id="@+id/droid"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/large_margin"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/gpsicon"
+        android:layout_margin="@dimen/large_margin"
+        />
+        
+    <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text=" Current GPS Fix "
+          android:layout_margin="@dimen/large_margin"
+        />
+
+    </LinearLayout>

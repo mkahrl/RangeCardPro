@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/res/merged/release/menu/menu_add.xml",
+        "source": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/src/main/res/menu/menu_add.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainMapActivity">
+       <item android:id="@+id/add_target" android:title="Add Target"
+        android:orderInCategory="102" />
+    <item android:id="@+id/add_position" android:title="Add Position"
+        android:orderInCategory="104" />
+    <item android:id="@+id/add_current_loc_target" android:title="Add Target at GPS"
+        android:orderInCategory="106" />
+    <item android:id="@+id/add_current_loc_pos" android:title="Add Position at GPS"
+        android:orderInCategory="108" />
+    </menu>

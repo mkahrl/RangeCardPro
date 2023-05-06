@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Range Card Pro</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_target">Edit Target</string>
+    <string name="name">Name</string>
+    <string name="notes">Notes: </string>
+    <string name="alt">Altitude</string>
+    <string name="elv">Elevation</string>
+    <string name="lat">Latitude </string>
+    <string name="lon">Longitude </string>
+    <string name="color">Color</string>
+    <string name="range">Range</string>
+    <string name="brng">Bearing</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="go_to">Go To</string>
+    <string name="meter">m</string>
+    <string name="foot">ft</string>
+    <string name="degree">deg.</string>
+    <string name="units">Units</string>
+    <string name="dis_units">Distance Units</string>
+    <string name="brng_units">Angle Units</string>
+    <string name="map_mode">Map Mode</string>
+    <string name="ret_size">Reticle Size</string>
+    <string name="ret_color">Reticle Color</string>
+    <string name="ref_point">Reference Point</string>
+    <string name="geo_units">Geopraphic System</string>
+    <string name="mgrs">MGRS:</string>
+    <string name="current_targets">CURRENT LOCATIONS : </string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="small_text">12dp</dimen>
+     <dimen name="small_med_text">16dp</dimen>
+     <dimen name="med_text">20dp</dimen>
+     <dimen name="med_large_text">26dp</dimen>
+     <dimen name="large_text">32dp</dimen>
+     <dimen name="very_large_text">40dp</dimen>
+     <dimen name="small_margin">6dp</dimen>
+     <dimen name="standard_margin">8dp</dimen>
+     <dimen name="large_margin">12dp</dimen>
+     <dimen name="button_width">220dp</dimen>
+     <dimen name="action_bar_height">38dp</dimen>
+     <dimen name="action_bar_padding">2dp</dimen>
+</resources>

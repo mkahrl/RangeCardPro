@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geocoords">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/geocoords.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

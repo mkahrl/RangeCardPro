@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainMapActivity">
+        <item android:id="@+id/preferences" android:title="Preferences"
+        android:orderInCategory="101" />
+
+    <item android:id="@+id/targetlist" android:title="Locations"
+        android:orderInCategory="104"
+        />
+        />
+    <item android:id="@+id/help" android:title="Help"
+        android:orderInCategory="106"
+        />
+    <item android:id="@+id/about" android:title="About"
+        android:orderInCategory="108"/>
+
+    <item android:id="@+id/add" android:title="Add.."
+        android:icon="@drawable/red_dt"
+        android:orderInCategory="110"
+        android:showAsAction="ifRoom">
+
+        <menu tools:context=".MainMapActivity">
+        <item android:id="@+id/add_target" android:title="Target"
+            android:orderInCategory="102" />
+        <item android:id="@+id/add_position" android:title="Position"
+            android:orderInCategory="104" />
+        <item android:id="@+id/add_current_loc_target" android:title="Target @ GPS"
+            android:orderInCategory="106" />
+        <item android:id="@+id/add_current_loc_pos" android:title="Pos.  @ GPS"
+            android:orderInCategory="108" />
+        </menu>
+        </item>
+</menu>

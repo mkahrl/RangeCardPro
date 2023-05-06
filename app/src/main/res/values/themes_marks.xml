@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="Theme.Marks" parent="@android:style/Theme.Material" >
+        <item name="android:actionBarSize">@dimen/action_bar_height</item>
+        <item name="android:actionOverflowButtonStyle">@style/Widget.Marks.ActionButtonOverflow</item>
+        <item name="android:textColorPrimary">@color/dark_black</item>
+        <item name="android:textColorSecondary">@color/dark_black</item>
+        <item name="android:homeAsUpIndicator">@drawable/back_arrow</item>
+        <item name="android:textColorTertiary">@color/dark_black</item>
+        <item name="android:colorPrimary">@color/green_600</item>
+        <item name="android:colorButtonNormal">@color/green_600</item>
+        <item name="android:colorPrimaryDark">@color/green_900</item>
+        <item name="android:windowBackground">@color/green_50</item>
+        <item name="android:colorAccent">@color/azure</item>
+        <item name="android:actionOverflowMenuStyle">@style/Widget.Marks.Menu</item>
+    </style>
+    <style name="Theme.Marks.Lite" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorPrimary">@color/dark_black</item>
+        <item name="android:textColorSecondary">@color/dark_black</item>
+        <item name="android:textColorTertiary">@color/dark_black</item>
+        <item name="android:colorPrimary">@color/green_600</item>
+        <item name="android:windowBackground">@color/orange_100</item>
+    </style>
+
+
+</resources>

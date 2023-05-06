@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.8.0_c592a3cdc6f6c9d543d820cd16017c651dcccf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-9.8.0_ba895bd4af69d6c68b5b0fb5e82150c8f641e621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.8.0_e151ec6402ce58b67f35f8a3325f6a3422b62bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_8ab6b0983a82bab54e7b3b929a549525f3b3038e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.8.0_e748f55ff4bd49281f6c4c4f6b1c6d87dc8da23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_37c4c03132df86d2b99f9ac3f496c797a91632a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.8.0_c9f4191cd5b53954a20fd103bf2e5c9b2c957bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_bf6ca8ad750ceaf804b4c8d4b4e5a192a083a812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_5b5cfb9f85b6511948a7c57d9490de7e09ad4a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.8.0_b2bcb971a626bc92f6e37cfe929d1d628fef3701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_854c24b66a89a2c3627ecf057867028ac04e0a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_adf1fa376fb918fc7f9d7e51081fc6ae65f9da68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.8.0_975f5a528c9f9a3627f8f46041357c9585466159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.8.0_fd9f5703ad9ae637208aa59c0f8e6a3a66725d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_8ab6b0983a82bab54e7b3b929a549525f3b3038e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-9.8.0_a7943976edea101fc12d5e7c648217fa61b299f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_fb30bc4995a8d4599e2d8c6e2a91cc9bd2affa79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.8.0_1baa447f354badaca3960441564b27ee49f211fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.8.0_11bf90d649f71c585884f2238a23e593c0949e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_33c07db725e180aa48e7a85c15c9989021645ff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.8.0_bb9b6ad00a75a4737ff7b7893dc1aff08df71021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_51d669447e261023898c0da22c1554a12c0b7e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_aae1ffd9b155d1830640ad3193dd329824bfcb3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.8.0_71b2a0a831807dc2a4dac629f9757210d655c3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_361d5c13593dd267248eb0c0eb9761b047af60fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.8.0_3fe8913a9bed4a18c6179f1ba569dc9fa17930a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_ad66a3f789b8bf1914f8ac3c87fe7ed9f73a3dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.8.0_f58d428f0cab56f4ab22ae97e71b707eed8829b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_7c44b1c59a3f7149e9ce28fa86bc5524ae19b571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_1cb73b21d893651f371d11d9ba06aa901e039ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.8.0_f0d0256e08e0b7fda1edd51fa64ee380d4992cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.8.0_d1b54442a2b96a3e348c49ff0e19ee92d30904c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.8.0_35dac24be28230108c8944fdb800fbc1c036586d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_b05d9617d5109d3a10b9147d5ade866946cc7887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_21734ac0cd0e49b92c17cd8a4587e3fe0d07330a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.8.0_e038fb02550353bf608d2c5eeec5b581a0f742af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_b3748dd99a2ae23ff63dbd8a9dfe01997525b7dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_fb30bc4995a8d4599e2d8c6e2a91cc9bd2affa79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_98e0b5cb1627b1b89fee9e847ab4c97f44e84053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.8.0_60435ef312dd38fb89fd0291f736a491fd623ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_51d669447e261023898c0da22c1554a12c0b7e55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_d83cc190ef15b67ba13021be1b16a6fdcd0f0b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.8.0_21ac0ba3b712308ed482fa59d4efb80bb67542db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.8.0_49981c6073191d57a9f81b9c9cc4a73300b35959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_07c336eba7f6274aedb52f10b5b9674a26967195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_89869f875f001872fdf73ca9209e5ec150e2e6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_f1f7f3e225bc3673b47003b7f264712cf9ea340a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_6b46f0960c00b0a15bcba5e23207af5e4754af26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_21734ac0cd0e49b92c17cd8a4587e3fe0d07330a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.8.0_6868a23fce8bceddf4c4024ff21cfae653f3b92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.8.0_e95f6aed62a793004a73584625fce73f42c6cf00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_4fbd8ae537cac0e39c1e7c686d346e4f6e649c3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.8.0_e968e4411db3cdba847303641b44b043664ff97d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.8.0_bbd75e3611b7cc93a52bf4b1161c79bdcb506e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.8.0_f5afe3d3ff68208fbc1d243df79f606f80da1ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.8.0_8bfa49db48bd43da356ab0e47a0a3d05801a12ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_d83cc190ef15b67ba13021be1b16a6fdcd0f0b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.8.0_61acfd5a8d34102c3ca38b07f8411c981b700d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_adf1fa376fb918fc7f9d7e51081fc6ae65f9da68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.8.0_8bc87c4f25f02b52ec1a0d8ced7772246d41dfa9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_eba29ed3293078eb63f5b6ac711b02d2b064bdc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_e6d860a003cf4281a86967f954ef98a2b70d0ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_07c336eba7f6274aedb52f10b5b9674a26967195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_854c24b66a89a2c3627ecf057867028ac04e0a90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_f1f7f3e225bc3673b47003b7f264712cf9ea340a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_ea2ae59c6cc0eb0e094652c3a250e65fdbb7a90f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.8.0_7cd94d17bb9870643e686f3a34219cf131a5108b.jar" />
+    </item>
+
+</items>

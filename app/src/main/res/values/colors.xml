@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Colors specific to Material themes. -->
+<resources>
+    <color name="red_900">#b71c1c</color>
+    <color name="red_700">#d32f2f</color>
+    <color name="red_500">#f44336</color>
+
+    <color name="orange_900">#e65100</color>
+    <color name="orange_700">#f57c00</color>
+    <color name="orange_500">#ff9800</color>
+    <color name="orange_200">#ffcc80</color>
+    <color name="orange_100">#FFE0B2</color>
+    <color name="orange_50">#fff3e0</color>
+
+   <color name="brown_900">#3e2273</color>
+   <color name="brown_800">#4e342e</color>
+   <color name="brown_100">#d7ccc8</color>
+   <color name="dark_black">#000000</color>
+
+    <color name="green_50">#E8F5E9</color>
+    <color name="green_100">#B9F6CA</color>
+    <color name="green_600">#43A047</color>
+    <color name="green_900">#1BE520</color>
+
+   <color name="azure">#007FFF</color>
+   <color name="blue">#0000FF</color>
+   <color name="cyan">#00B7EB</color>
+   <color name="green">#00FF00</color>
+</resources>

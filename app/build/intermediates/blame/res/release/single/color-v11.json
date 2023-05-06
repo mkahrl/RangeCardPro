@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mark/Desktop/droidcode/RangeCardPro-L1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
