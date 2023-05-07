@@ -5,7 +5,7 @@ Range Card is a GIS application, that uses Google Maps as a base map engine.
 
 Inspired by the infantry and sharp shooter concept of the hand drawn 'range card'
 
-Range Card provides a constant update range and bearing of all geo points on the map to a base reference point, which can be any geo point, 
+Range Card provides a constant update to the range and bearing of all geo points on the map to a base reference point, which can be any geo point, 
 or the user's GPS position. 
 
 * Geo points can be added any where on the map, or to the current GPS location.
