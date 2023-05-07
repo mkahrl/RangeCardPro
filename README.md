@@ -13,7 +13,10 @@ or the user's GPS poistion.
 * Long pressing points opens up detail view and allows editing.
 * Geo points can be of type 'target', 'position' or 'friendly'
 * Range can be expressed in various units: m, ft, miles, NM, km.
-* Bearings can be expressed as either reltive or magnetic.
-* The reticle in the center of the map updates range and bearing from reference can be found e 
+* Bearings can be expressed as either relative or magnetic.
+* The reticle in the center of the map updates range and bearing from reference point os you pan.
+* Supports Lat / Lon and MGRS coordinates.
 
-Application /.apk can be found in the /build/ directory of this repo.
+Application .apk can be found in the /build/ directory of this repo.
+
+Useful for golf, boating, shooting, etc ..
