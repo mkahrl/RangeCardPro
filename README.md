@@ -14,8 +14,6 @@ or the user's GPS poistion.
 * Geo points can be of type 'target', 'position' or 'friendly'
 * Range can be expressed in various units: m, ft, miles, NM, km.
 * Bearings can be expressed as either reltive or magnetic.
-* The reticle in the center of the map updates range and bearing from reference as you pan zoom.
-* The vertical look angle is also calculated, can be seen in detail veiws.
-* Lat / Lon as well as MGRS coordiantes are supported.
+* The reticle in the center of the map updates range and bearing from reference can be found e 
 
-Useful for amny applications such as golf, boating, shooting, etc ..
+Application /.apk can be found in the /build/ directory of this repo.
