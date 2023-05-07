@@ -37,10 +37,6 @@
            <activity android:name="GPSActivity"
                android:parentActivityName="marks.rangecard.pro.MainMapActivity">
            </activity>
-
-           <meta-data
-               android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAg--PRkZedlyQo5bY9eTeyMN71YbPuRMI" />
     </application>
        <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
 </manifest>
